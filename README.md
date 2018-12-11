@@ -1,6 +1,9 @@
 # React: Film Releases
 
-Plan and build an application that displays a list of upcoming film titles, each one linking to their [imdb](https://www.imdb.com/) page.
+Plan and build a simple application that displays a list of upcoming film titles, each one linking to their [imdb](https://www.imdb.com/) page.
+
+![Screenshot of example result](screen.png)
+*Screenshot of example result*
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
